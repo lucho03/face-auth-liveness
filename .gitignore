@@ -1,3 +1,15 @@
+# Documents
+*.doc
+*.pdf
+
+# Data files
+*.jpg
+*.png
+
+# Data models
+*.yml
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

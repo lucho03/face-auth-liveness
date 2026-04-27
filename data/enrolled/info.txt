@@ -1,0 +1,1 @@
+User folders (user_1, user_2, user_3...) act like database (30 or more pictures of the person)
